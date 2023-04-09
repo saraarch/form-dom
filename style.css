@@ -1,0 +1,16 @@
+.box-inside{
+    background-color:rgb(174,207,208);;
+   
+    padding: 20px;
+    margin:100px 100px 100px 400px;
+    font-family: sans-serif;
+    font-weight:normal;
+    color: rgb(26, 1, 15);
+    position: relative;
+    
+
+}
+button{
+    margin: 20px;
+ 
+}
